@@ -14,7 +14,7 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLongitude: 0,
   name: '𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘',
   address: 'Lihat Rules Bot',
-  url: 'https://fangzbot.websites.co.in/update/persyaratan/1238529',
+  url: 'https://telegra.ph/file/63becd9d2cc56944fafac.jpg',
   isLive: true,
   accuracyInMeters: 0,
   speedInMps: 0,

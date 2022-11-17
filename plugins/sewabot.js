@@ -12,8 +12,8 @@ if (command == 'sewabot') {
 ║ ┅ ๑————————————๑
 ║┊ ⌲ *Hemat* = _5k/grup (1 minggu)_
 ║┊ ⌲ *Normal* = _15k/grup (1 bulan)_
-║┊ ⌲ *Standar* = _45k/grup (3 bulan)_
-║┊ ⌲ *Pro* = _65k/grup (5 bulan)_                                                                      ║┊ ⌲ *Permanen* = _80k/grup_
+║┊ ⌲ *Standar* = _25k/grup (3 bulan)_
+║┊ ⌲ *Pro* = _45k/grup (5 bulan)_                                                                      ║┊ ⌲ *Permanen* = _80k/grup_
 ╰═ ┅ ═══════
 
 

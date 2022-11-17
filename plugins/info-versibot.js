@@ -13,13 +13,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Download Sc',
-                        url: 'https://bit.ly/3SzhgLV'
+                        url: 'https://github.com/YannPrtm/FMBOT-V3'
                     }
                 },
                 {
                     urlButton: {
-                        displayText: 'Ke YouTube',
-                        url: 'https://youtu.be/UOL_t5iwOPo',
+                        displayText: 'Ramein Gc',
+                        url: 'https://chat.whatsapp.com/KHorlMi7ZwRHOZNlvxBC2M',
                     }
                 },
             ]
